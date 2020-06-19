@@ -1,0 +1,71 @@
+.comments-title{
+    display: none;
+}
+
+.comment-author img{
+    border-radius: 50%;
+}
+.comment-author b{
+    font-family: inter;
+    font-size: 18px;
+}
+
+.comment-author span{
+  display: none;
+}
+.comment-metadata a{
+    color: #a8abab;
+    font-size: 12px;
+    font-family: inter;
+}
+.comment-content p{
+    font-size: 18px;
+    font-family: inter;
+    color: #000000;
+}
+
+#comments ol {
+    list-style: none;
+}
+
+.reply a{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: inter;
+    color: #45b44d;
+}
+.comment-reply-title{
+      color: #00d07e;
+}
+#email-notes{
+    color: #00ac96;
+}
+.comment-form-comment label{
+        font-size: 18px;
+    font-family: inter;
+    font-weight: bold;
+}
+label{
+    font-size: 18px;
+    font-family: inter;
+    font-weight: bold;
+}
+.comment-form-author label{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.comment-form-author{
+    width: 80%;
+}
+.comment-form-email{
+        width: 80%;
+}
+
+.comment-form-url{
+    width: 80%;
+}
+
+
+
+
